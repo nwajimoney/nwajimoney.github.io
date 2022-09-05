@@ -1,0 +1,34 @@
+body{
+    size: 16px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    font-family: 'Oxygen', sans-serif;
+}
+#header-nav {
+    background-color: gold;
+    border-radius: 0;
+    border: 0;
+
+}
+
+.jim{
+    font-size: 40px;
+    text-decoration: none;
+}
+
+.boom h1 {
+    padding-left: 550px;
+}
+
+.jazz {
+    background-color: gold;
+    width: 750px;
+    border: 5px solid black;
+    margin: auto;
+    height: 1300px;
+    margin-bottom: 20px;
+}
+
+.jazz h2{
+    padding-left: 300px;
+}
