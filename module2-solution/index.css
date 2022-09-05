@@ -1,0 +1,54 @@
+body {
+    background-color: azure;
+}
+
+.fet {
+    padding-left: 750px;
+    
+}
+
+.moon {
+    background-color: green;
+    width: 750px;
+    border: 5px solid black;
+    margin: auto;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+.moon h2 {
+    color: white;
+}
+
+.moon p{
+    color: white;
+}
+
+.lib {
+    background-color:red;
+    width: 750px;
+    border: 5px solid black;
+    margin: auto;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+.brok {
+    background-color: grey;
+    width: 750px;
+    border: 5px solid black;
+    margin: auto;
+    height: 300px;
+}
+
+.brok h2{
+    color: blue;
+}
+
+.brok p{
+    color: blue;
+}
+h2 {
+    padding-left: 650px;
+}
+
