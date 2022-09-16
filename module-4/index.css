@@ -88,14 +88,14 @@ body{
 
 }
 
-
-.jim{
+.jank {
     font-size: 40px;
-    text-decoration: none;
+    text-decoration:none;
 }
 
-.boom h1 {
+.jank h1 {
     padding-left: 550px;
+    colour: gold;
 }
 
 .jazz {
